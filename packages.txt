@@ -3,7 +3,6 @@
 catppuccin-fcitx5-git
 catppuccin-obs-theme-git
 fcitx5-lotus-git
-onlyoffice
 ttf-vietnamese-tcvn3
 ttf-vietnamese-vni
 zalo-for-linux-git

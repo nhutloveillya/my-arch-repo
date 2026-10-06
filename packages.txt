@@ -9,3 +9,4 @@ ttf-vietnamese-tcvn3
 ttf-vietnamese-vni
 zalo-for-linux-git
 thorium-browser-avx2-bin
+aegisub-arch1t3cht-git

@@ -3,8 +3,6 @@
 catppuccin-fcitx5-git
 catppuccin-obs-theme-git
 fcitx5-lotus-git
-ttf-vietnamese-tcvn3
-ttf-vietnamese-vni
 zalo-for-linux-git
 thorium-browser-avx2-bin
 aegisub-arch1t3cht-git
